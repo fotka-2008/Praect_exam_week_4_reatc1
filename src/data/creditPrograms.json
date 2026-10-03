@@ -1,0 +1,302 @@
+{
+  "trade-in": {
+    "title": "Госпрограмма Trade-in",
+    "crumb": "Кредит и рассрочка",
+    "text": "Обменяйте свой автомобиль\nна новый с максимальной скидкой",
+    "image": "hero-trade-in.jpg",
+    "pill": [
+      "от 1,9%",
+      "По льготной ставке"
+    ],
+    "minus": false,
+    "bigMinus": true,
+    "features": [
+      {
+        "icon": "gear",
+        "text": "Установка любого дополнительного оборудования"
+      },
+      {
+        "icon": "gift",
+        "text": "Каждому покупателю ТО 0 и Т0-1 в подарок!"
+      },
+      {
+        "icon": "card",
+        "text": "Бонусная карта на сервисное обслуживание"
+      }
+    ],
+    "benefits": "tradein",
+    "benefitsTitle": "Преимущества покупки в trade-in",
+    "carEmpty": false,
+    "steps": {
+      "credit": true,
+      "creditOn": false,
+      "installment": false,
+      "tradein": true,
+      "tradeinOn": true,
+      "tradeinFirst": true
+    },
+    "discounts": [
+      [
+        "Скидка от 70 000 ₽",
+        70000
+      ]
+    ],
+    "tradeinLabel": [
+      "Скидка от 120 000 ₽",
+      120000
+    ],
+    "cards": "tradein",
+    "cardsTitle": "Преимущества программы Trade-in",
+    "banner": null,
+    "banks": false,
+    "competitor": false
+  },
+  "express": {
+    "title": "Экспресс-кредит",
+    "crumb": "Кредит и рассрочка",
+    "text": "Воплотите мечту о новом автомобиле уже сегодня с выгодным предложением. Заполните заявку, чтобы получить уникальное предложение.",
+    "image": "hero-express.jpg",
+    "pill": [
+      "от 1,9%",
+      "По льготной ставке"
+    ],
+    "minus": false,
+    "features": [
+      {
+        "icon": "like",
+        "text": "Компенсируем дорогу до автосалона всем покупателям"
+      },
+      {
+        "icon": "clock",
+        "text": "БЫСТРОЕ оформление КАСКО и ОСАГО за 15 минут"
+      },
+      {
+        "icon": "percent",
+        "text": "Скидка 30 000 рублей"
+      }
+    ],
+    "benefits": "credit",
+    "benefitsTitle": "Преимущества программы",
+    "carEmpty": false,
+    "steps": {
+      "credit": true,
+      "creditOn": true,
+      "installment": false,
+      "tradein": true,
+      "tradeinOn": true
+    },
+    "discounts": [
+      [
+        "Скидка 70 000 ₽",
+        70000
+      ],
+      [
+        "Акция \"Выгодный кредит\" Скидка 30 000 ₽",
+        30000
+      ]
+    ],
+    "tradeinLabel": [
+      "Скидка 120 000 ₽",
+      120000
+    ],
+    "cards": "credit",
+    "cardsTitle": "Преимущества автокредита",
+    "banner": "conditions",
+    "bannerTitle": "Условия получения кредита",
+    "banks": true,
+    "competitor": true
+  },
+  "installment": {
+    "title": "Рассрочка",
+    "crumb": "Кредит и рассрочка",
+    "text": "Воплотите мечту о новом автомобиле уже сегодня с выгодным предложением. Заполните заявку, чтобы получить уникальное предложение.",
+    "image": "hero-installment.jpg",
+    "pill": [
+      "0%",
+      "Переплата за автомобиль"
+    ],
+    "minus": false,
+    "features": [],
+    "benefits": null,
+    "carEmpty": false,
+    "steps": {
+      "credit": false,
+      "installment": true,
+      "tradein": false
+    },
+    "discounts": [],
+    "cards": "credit",
+    "cardsTitle": "Преимущества автокредита",
+    "banner": "conditions",
+    "bannerTitle": "Условия получения рассрочки",
+    "banks": true,
+    "competitor": true
+  },
+  "first-car": {
+    "title": "Первый автомобиль",
+    "crumb": "Кредит и рассрочка",
+    "text": "Стать участником программы «Первый автомобиль» может любой клиент без ограничений по возрасту, основное условие - покупка автомобиля впервые.",
+    "image": "hero-first-car.jpg",
+    "pill": [
+      "от 1,9%",
+      "Ставки ниже еще не было"
+    ],
+    "minus": true,
+    "features": [],
+    "benefits": "credit",
+    "benefitsTitle": "Преимущества программы",
+    "carEmpty": true,
+    "steps": {
+      "credit": true,
+      "creditOn": true,
+      "installment": false,
+      "tradein": true,
+      "tradeinOn": false
+    },
+    "discounts": [
+      [
+        "Скидка от руководителя -10% от цены авто",
+        "10%"
+      ],
+      [
+        "Акция \"Выгодный кредит\" Скидка 30 000 ₽",
+        30000
+      ]
+    ],
+    "tradeinLabel": [
+      "Скидка 120 000 ₽",
+      120000
+    ],
+    "cards": "credit",
+    "cardsTitle": "Преимущества автокредита",
+    "banner": "subsidy",
+    "bannerTitle": "Получите скидку на покупку нового авто!",
+    "banks": true,
+    "competitor": true
+  },
+  "family-car": {
+    "title": "Семейный автомобиль",
+    "crumb": "Кредит и рассрочка",
+    "text": "Программа “Семейный автомобиль” рассчитана на покупателей с одним и более несовершеннолетними детьми в семье",
+    "image": "hero-family.jpg",
+    "pill": [
+      "от 1,9%",
+      "По льготной ставке"
+    ],
+    "minus": true,
+    "features": [],
+    "benefits": "credit",
+    "benefitsTitle": "Преимущества программы",
+    "carEmpty": true,
+    "steps": {
+      "credit": true,
+      "creditOn": true,
+      "installment": false,
+      "tradein": true,
+      "tradeinOn": false
+    },
+    "discounts": [
+      [
+        "Скидка от руководителя -10% от цены авто",
+        "10%"
+      ],
+      [
+        "Акция \"Выгодный кредит\" Скидка 30 000 ₽",
+        30000
+      ]
+    ],
+    "tradeinLabel": [
+      "Скидка 120 000 ₽",
+      120000
+    ],
+    "cards": "credit",
+    "cardsTitle": "Преимущества автокредита",
+    "banner": "subsidy",
+    "bannerTitle": "Получите скидку на покупку нового авто!",
+    "banks": true,
+    "competitor": true
+  },
+  "medics": {
+    "title": "Работникам медицины",
+    "crumb": "Кредит и рассрочка",
+    "text": "Компенсация от 10% до 25%",
+    "image": "hero-medics.jpg",
+    "pill": [
+      "от 1,9%",
+      "Без первоначального взноса"
+    ],
+    "minus": true,
+    "features": [],
+    "benefits": "credit",
+    "benefitsTitle": "Преимущества программы",
+    "carEmpty": true,
+    "steps": {
+      "credit": true,
+      "creditOn": true,
+      "installment": false,
+      "tradein": true,
+      "tradeinOn": false
+    },
+    "discounts": [
+      [
+        "Скидка от руководителя -10% от цены авто",
+        "10%"
+      ],
+      [
+        "Акция \"Выгодный кредит\" Скидка 30 000 ₽",
+        30000
+      ]
+    ],
+    "tradeinLabel": [
+      "Скидка 120 000 ₽",
+      120000
+    ],
+    "cards": "credit",
+    "cardsTitle": "Преимущества автокредита",
+    "banner": "subsidy",
+    "bannerTitle": "Получите скидку на покупку нового авто!",
+    "banks": true,
+    "competitor": true
+  },
+  "recycling": {
+    "title": "Утилизация авто",
+    "crumb": "Спецпредложения",
+    "text": "Стать участником программы «Утилизации авто» может любой клиент без ограничений по возрасту, основное условие - покупка автомобиля впервые.",
+    "image": "hero-recycling.jpg",
+    "pill": [
+      "от 1,9%",
+      "По льготной ставке"
+    ],
+    "minus": false,
+    "features": [],
+    "benefits": null,
+    "carEmpty": false,
+    "steps": {
+      "credit": true,
+      "creditOn": true,
+      "installment": false,
+      "tradein": true,
+      "tradeinOn": true
+    },
+    "discounts": [
+      [
+        "Скидка от руководителя -10% от цены авто",
+        "10%"
+      ],
+      [
+        "Акция \"Выгодный кредит\" Скидка 30 000 ₽",
+        30000
+      ]
+    ],
+    "tradeinLabel": [
+      "Акция \"Trade-in или Утилизация\" - скидка 75 000 ₽",
+      75000
+    ],
+    "cards": "credit",
+    "cardsTitle": "Преимущества автокредита",
+    "banner": "conditions",
+    "bannerTitle": "Условия участия в программе",
+    "banks": true,
+    "competitor": true
+  }
+}

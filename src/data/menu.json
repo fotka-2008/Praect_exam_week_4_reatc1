@@ -1,0 +1,44 @@
+{
+  "top": [
+    { "title": "Подбор авто", "to": "/used", "red": true },
+    { "title": "О компании", "to": "/about" },
+    { "title": "Техцентр", "to": "/service" },
+    { "title": "Отзывы", "to": "/reviews" },
+    { "title": "Контакты", "to": "/about#contacts" }
+  ],
+  "main": [
+    { "title": "Каталог авто", "catalog": true },
+    {
+      "title": "Авто с пробегом",
+      "items": [
+        { "title": "Все авто с пробегом", "to": "/used" },
+        { "title": "Toyota с пробегом", "to": "/used?brand=Toyota" },
+        { "title": "Skoda с пробегом", "to": "/used?brand=Skoda" },
+        { "title": "Kia с пробегом", "to": "/used?brand=Kia" },
+        { "title": "Hyundai с пробегом", "to": "/used?brand=Hyundai" },
+        { "title": "Mazda с пробегом", "to": "/used?brand=Mazda" }
+      ]
+    },
+    {
+      "title": "Кредит и рассрочка",
+      "items": [
+        { "title": "Экспресс-кредит", "to": "/credit/express" },
+        { "title": "Семейный автомобиль", "to": "/credit/family-car" },
+        { "title": "Первый автомобиль", "to": "/credit/first-car" },
+        { "title": "Работникам медицины", "to": "/credit/medics" },
+        { "title": "Рассрочка", "to": "/credit/installment" },
+        { "title": "Trade-in", "to": "/" }
+      ]
+    },
+    {
+      "title": "Спецпредложения",
+      "items": [
+        { "title": "Утилизация", "to": "/special/recycling" },
+        { "title": "Госпрограмма Trade-in", "to": "/" },
+        { "title": "Страховые полисы", "to": "/insurance" },
+        { "title": "Такси в кредит", "to": "/taxi" }
+      ]
+    },
+    { "title": "Такси в кредит", "to": "/taxi" }
+  ]
+}

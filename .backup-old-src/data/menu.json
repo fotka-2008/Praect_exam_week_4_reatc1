@@ -1,0 +1,49 @@
+{
+  "topLinks": [
+    { "label": "Подбор авто", "to": "/used" },
+    { "label": "О компании", "to": "/about" },
+    { "label": "Техцентр", "to": "/service" },
+    { "label": "Отзывы", "to": "/reviews" },
+    { "label": "Контакты", "to": "/about" }
+  ],
+  "main": [
+    {
+      "label": "Каталог авто",
+      "items": [
+        { "label": "Toyota Camry 2.0 AT Стандарт", "to": "/new/1" },
+        { "label": "Kia Rio 1.6 AT Prestige", "to": "/new/2" },
+        { "label": "Skoda Octavia 1.4 TSI Style", "to": "/new/3" },
+        { "label": "Hyundai Creta 2.0 AT Lifestyle", "to": "/new/4" },
+        { "label": "Избранное", "to": "/favorites" }
+      ]
+    },
+    {
+      "label": "Авто с пробегом",
+      "items": [
+        { "label": "Все авто с пробегом", "to": "/used" },
+        { "label": "Toyota Camry 2013", "to": "/used/1" },
+        { "label": "Toyota Land Cruiser 2016", "to": "/used/5" }
+      ]
+    },
+    {
+      "label": "Кредит и рассрочка",
+      "items": [
+        { "label": "Рассрочка", "to": "/credit/installment" },
+        { "label": "Экспресс-кредит", "to": "/credit/express" },
+        { "label": "Работникам медицины", "to": "/credit/medics" },
+        { "label": "Первый автомобиль", "to": "/credit/first-car" },
+        { "label": "Семейный автомобиль", "to": "/credit/family-car" },
+        { "label": "Госпрограмма Trade-in", "to": "/credit/trade-in" }
+      ]
+    },
+    {
+      "label": "Спецпредложения",
+      "items": [
+        { "label": "Утилизация авто", "to": "/special/recycling" },
+        { "label": "Страховые полисы", "to": "/insurance" },
+        { "label": "Trade-in", "to": "/credit/trade-in" }
+      ]
+    },
+    { "label": "Такси в кредит", "to": "/taxi" }
+  ]
+}

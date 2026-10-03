@@ -1,0 +1,14 @@
+{
+  "sites": [
+    { "site": "Отзовик", "rating": 4.5, "recommend": 90 },
+    { "site": "Авито Отзывы", "rating": 4.7, "recommend": 94 },
+    { "site": "Drom.ru", "rating": 4.4, "recommend": 88 },
+    { "site": "Flamp", "rating": 4.6, "recommend": 91 },
+    { "site": "Auto.ru", "rating": 4.8, "recommend": 96 }
+  ],
+  "maps": [
+    { "name": "Яндекс Карты", "rating": 4.5, "recommend": 90 },
+    { "name": "Google Maps", "rating": 4.1, "recommend": 90 }
+  ],
+  "salon": "ABC AUTO на МКАД"
+}

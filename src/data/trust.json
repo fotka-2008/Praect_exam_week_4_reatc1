@@ -1,0 +1,14 @@
+{
+  "sites": [
+    { "id": 1, "site": "Отзовик", "name": "ABC AUTO Москва", "recommend": 90, "rating": 4.5 },
+    { "id": 2, "site": "Авто.ру", "name": "ABC AUTO Москва", "recommend": 92, "rating": 4.6 },
+    { "id": 3, "site": "Drom.ru", "name": "ABC AUTO Москва", "recommend": 88, "rating": 4.4 },
+    { "id": 4, "site": "Flamp", "name": "ABC AUTO Москва", "recommend": 91, "rating": 4.5 },
+    { "id": 5, "site": "iRecommend", "name": "ABC AUTO Москва", "recommend": 87, "rating": 4.3 },
+    { "id": 6, "site": "2ГИС", "name": "ABC AUTO Москва", "recommend": 94, "rating": 4.7 }
+  ],
+  "maps": [
+    { "id": 1, "name": "Яндекс Карты", "place": "ABC AUTO Москва", "recommend": 90, "rating": 4.5, "logo": "" },
+    { "id": 2, "name": "Google Maps", "place": "ABC AUTO Москва", "recommend": 90, "rating": 4.1, "logo": "" }
+  ]
+}

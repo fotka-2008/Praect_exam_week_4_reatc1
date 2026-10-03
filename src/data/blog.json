@@ -1,0 +1,8 @@
+[
+  { "id": 1, "date": "25 октября", "title": "Тест Skoda Karoq Scout - городской карлик или настоящий скаут", "image": "blog-family.jpg" },
+  { "id": 2, "date": "18 октября", "title": "Как выбрать автомобиль для семьи с двумя детьми", "image": "blog-couple.jpg" },
+  { "id": 3, "date": "11 октября", "title": "Toyota Camry 2021: что изменилось после рестайлинга", "image": "photo-camry-road.jpg" },
+  { "id": 4, "date": "4 октября", "title": "Trade-in или продажа с рук: что выгоднее в 2021 году", "image": "photo-sedan-city.jpg" },
+  { "id": 5, "date": "27 сентября", "title": "Пять признаков, что пора менять зимнюю резину", "image": "photo-land-cruiser.jpg" },
+  { "id": 6, "date": "20 сентября", "title": "Гибрид или бензин: считаем реальную экономию", "image": "photo-corolla-road.jpg" }
+]

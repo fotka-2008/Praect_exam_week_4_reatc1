@@ -1,0 +1,295 @@
+{
+  "installment": {
+    "title": "Рассрочка",
+    "section": "Кредит и рассрочка",
+    "subtitle": "Воплотите мечту о новом автомобиле уже сегодня с выгодным предложением. Заполните заявку, чтобы получить уникальное предложение.",
+    "hero": "hero-installment.jpg",
+    "badgeBig": "0%",
+    "badgeText": "Переплата\nза автомобиль",
+    "discount": null,
+    "heroIcons": [],
+    "benefits": null,
+    "steps": [
+      {
+        "type": "car"
+      },
+      {
+        "type": "installment"
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "credit",
+    "advantagesTitle": "Преимущества автокредита",
+    "discountBlock": false,
+    "conditionsTitle": "Условия получения рассрочки",
+    "banks": true,
+    "competitor": true
+  },
+  "express": {
+    "title": "Экспресс-кредит",
+    "section": "Кредит и рассрочка",
+    "subtitle": "Воплотите мечту о новом автомобиле уже сегодня с выгодным предложением. Заполните заявку, чтобы получить уникальное предложение.",
+    "hero": "hero-express.jpg",
+    "badgeBig": "от 1,9%",
+    "badgeText": "По льготной\nставке",
+    "discount": null,
+    "heroIcons": [
+      {
+        "icon": "thumb",
+        "text": "Компенсируем дорогу до автосалона всем покупателям"
+      },
+      {
+        "icon": "timer",
+        "text": "БЫСТРОЕ оформление КАСКО и ОСАГО за 15 минут"
+      },
+      {
+        "icon": "percent",
+        "text": "Скидка 30 000 рублей"
+      }
+    ],
+    "benefits": "program",
+    "benefitsTitle": "Преимущества программы",
+    "steps": [
+      {
+        "type": "car"
+      },
+      {
+        "type": "credit",
+        "discounts": [
+          "Скидка 70 000 ₽",
+          "Акция “Выгодный кредит” Скидка 30 000 ₽"
+        ]
+      },
+      {
+        "type": "tradein",
+        "discount": "Скидка 120 000 ₽"
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "credit",
+    "advantagesTitle": "Преимущества автокредита",
+    "discountBlock": false,
+    "conditionsTitle": "Условия получения кредита",
+    "banks": true,
+    "competitor": true
+  },
+  "medics": {
+    "title": "Работникам медицины",
+    "section": "Кредит и рассрочка",
+    "subtitle": "Компенсация от 10% до 25%",
+    "hero": "hero-medics.jpg",
+    "badgeBig": "от 1,9%",
+    "badgeText": "Без первоначального\nвзноса",
+    "discount": {
+      "big": "-10%",
+      "text": "От стоимости автомобиля"
+    },
+    "heroIcons": [],
+    "benefits": "program",
+    "benefitsTitle": "Преимущества программы",
+    "steps": [
+      {
+        "type": "car"
+      },
+      {
+        "type": "credit",
+        "discounts": [
+          "Скидка от руководителя -10% от цены авто",
+          "Акция “Выгодный кредит” Скидка 30 000 ₽"
+        ]
+      },
+      {
+        "type": "tradein",
+        "collapsed": true,
+        "discount": "Скидка 120 000 ₽"
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "credit",
+    "advantagesTitle": "Преимущества автокредита",
+    "discountBlock": true,
+    "conditionsTitle": null,
+    "banks": true,
+    "competitor": true
+  },
+  "first-car": {
+    "title": "Первый автомобиль",
+    "section": "Кредит и рассрочка",
+    "subtitle": "Стать участником программы «Первый автомобиль» может любой клиент без ограничений по возрасту, основное условие - покупка автомобиля впервые.",
+    "hero": "hero-first-car.jpg",
+    "badgeBig": "от 1,9%",
+    "badgeText": "Ставки ниже\nеще не было",
+    "discount": {
+      "big": "-10%",
+      "text": "От стоимости автомобиля"
+    },
+    "heroIcons": [],
+    "benefits": "program",
+    "benefitsTitle": "Преимущества программы",
+    "steps": [
+      {
+        "type": "car"
+      },
+      {
+        "type": "credit",
+        "discounts": [
+          "Скидка 10% по госпрограмме",
+          "Акция “Выгодный кредит” Скидка 30 000 ₽"
+        ]
+      },
+      {
+        "type": "tradein",
+        "collapsed": true,
+        "discount": "Скидка 120 000 ₽"
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "credit",
+    "advantagesTitle": "Преимущества автокредита",
+    "discountBlock": true,
+    "conditionsTitle": null,
+    "banks": true,
+    "competitor": true
+  },
+  "family-car": {
+    "title": "Семейный автомобиль",
+    "section": "Кредит и рассрочка",
+    "subtitle": "Программа “Семейный автомобиль” рассчитана на покупателей с одним и более несовершеннолетними детьми в семье",
+    "hero": "hero-family.jpg",
+    "badgeBig": "от 1,9%",
+    "badgeText": "По льготной\nставке",
+    "discount": {
+      "big": "-10%",
+      "text": "От стоимости автомобиля"
+    },
+    "heroIcons": [],
+    "benefits": "program",
+    "benefitsTitle": "Преимущества программы",
+    "steps": [
+      {
+        "type": "car",
+        "empty": true
+      },
+      {
+        "type": "credit",
+        "discounts": [
+          "Скидка 10% по госпрограмме",
+          "Акция “Выгодный кредит” Скидка 30 000 ₽"
+        ]
+      },
+      {
+        "type": "tradein",
+        "collapsed": true,
+        "discount": "Скидка 120 000 ₽"
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "credit",
+    "advantagesTitle": "Преимущества автокредита",
+    "discountBlock": true,
+    "conditionsTitle": null,
+    "banks": true,
+    "competitor": true
+  },
+  "trade-in": {
+    "title": "Госпрограмма Trade-in",
+    "section": "Кредит и рассрочка",
+    "subtitle": "Обменяйте свой автомобиль на новый с максимальной скидкой",
+    "hero": "hero-trade-in.jpg",
+    "badgeBig": "от 1,9%",
+    "badgeText": "По льготной\nставке",
+    "discount": {
+      "big": "-10%",
+      "text": "От стоимости автомобиля",
+      "top": true
+    },
+    "heroIcons": [
+      {
+        "icon": "gear",
+        "text": "Установка любого дополнительного оборудования"
+      },
+      {
+        "icon": "gift",
+        "text": "Каждому покупателю ТО 0 и ТО-1 в подарок!"
+      },
+      {
+        "icon": "card",
+        "text": "Бонусная карта на сервисное обслуживание"
+      }
+    ],
+    "benefits": "tradeIn",
+    "benefitsTitle": "Преимущества покупки в trade-in",
+    "steps": [
+      {
+        "type": "car"
+      },
+      {
+        "type": "credit",
+        "collapsed": true,
+        "discounts": [
+          "Скидка от 70 000 ₽"
+        ]
+      },
+      {
+        "type": "tradein",
+        "discount": "Скидка от 120 000 ₽",
+        "withPrice": true
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "tradeIn",
+    "advantagesTitle": "Преимущества программы Trade-in",
+    "discountBlock": false,
+    "conditionsTitle": null,
+    "banks": false,
+    "competitor": false
+  },
+  "recycling": {
+    "title": "Утилизация авто",
+    "section": "Спецпредложения",
+    "subtitle": "Стать участником программы «Утилизации авто» может любой клиент без ограничений по возрасту, основное условие - покупка автомобиля впервые.",
+    "hero": "hero-recycling.jpg",
+    "badgeBig": "от 1,9%",
+    "badgeText": "По льготной\nставке",
+    "discount": null,
+    "heroIcons": [],
+    "benefits": null,
+    "steps": [
+      {
+        "type": "car"
+      },
+      {
+        "type": "credit",
+        "discounts": [
+          "Скидка за утилизацию 60 000 ₽",
+          "Акция “Выгодный кредит” Скидка 30 000 ₽"
+        ]
+      },
+      {
+        "type": "tradein",
+        "discount": "Скидка 120 000 ₽"
+      },
+      {
+        "type": "personal"
+      }
+    ],
+    "advantages": "credit",
+    "advantagesTitle": "Преимущества автокредита",
+    "discountBlock": false,
+    "conditionsTitle": "Условия участия в программе",
+    "banks": true,
+    "competitor": true
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Специальное предложение",
+    "sub": "от представительства",
+    "value": 35000,
+    "on": true,
+    "icon": "tag",
+    "more": false
+  },
+  {
+    "id": 2,
+    "title": "Скидка за наличные",
+    "sub": "от ABC Auto",
+    "value": 40000,
+    "on": true,
+    "icon": "wallet",
+    "more": false
+  },
+  {
+    "id": 3,
+    "title": "Выгода за Trade-in",
+    "sub": "от ABC Auto",
+    "value": 120000,
+    "on": true,
+    "icon": "refresh",
+    "more": "/"
+  },
+  {
+    "id": 4,
+    "title": "Выгода за утилизацию",
+    "sub": "от ABC Auto",
+    "value": 60000,
+    "on": false,
+    "icon": "recycle",
+    "more": "/special/recycling"
+  },
+  {
+    "id": 5,
+    "title": "Скидка при оформлении",
+    "sub": "Авто в кредит 1,9%",
+    "value": 40000,
+    "on": false,
+    "icon": "percent",
+    "more": "/credit/express"
+  },
+  {
+    "id": 6,
+    "title": "Госпрограмма",
+    "sub": "Семейный автомобиль, Первый автомобиль, Работникам медицины, Госпрограмма Trade-in",
+    "value": 10,
+    "percent": true,
+    "label": "10% от цены авто",
+    "on": true,
+    "icon": "eagle",
+    "more": false
+  }
+]

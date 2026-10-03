@@ -1,0 +1,8 @@
+[
+  { "brand": "Kia", "model": "Rio", "trim": "Comfort 1.4 100 л.с. 6MT 2WD (2020)", "image": "car-kia-rio-silver.png", "hue": 0, "price": 2200000, "basePrice": 2500000 },
+  { "brand": "Hyundai", "model": "Creta", "trim": "Lifestyle 2.0 149 л.с. 6AT 2WD (2021)", "image": "car-hyundai-creta.png", "hue": 0, "price": 1749000, "basePrice": 1899000 },
+  { "brand": "Skoda", "model": "Octavia", "trim": "Style 1.4 TSI 150 л.с. 8AT (2021)", "image": "car-octavia-black.png", "hue": 0, "price": 1615000, "basePrice": 1915000 },
+  { "brand": "Toyota", "model": "Camry", "trim": "Стандарт 2.0 150 л.с. CVT (2020)", "image": "car-camry-white.png", "hue": 0, "price": 2150000, "basePrice": 2400000 },
+  { "brand": "Mazda", "model": "3", "trim": "Active 1.5 120 л.с. 6AT (2021)", "image": "car-mazda3-red.png", "hue": 0, "price": 1985000, "basePrice": 2105000 },
+  { "brand": "Skoda", "model": "Karoq", "trim": "Ambition 1.4 TSI 150 л.с. 8AT (2021)", "image": "car-karoq-blue.png", "hue": 0, "price": 2090000, "basePrice": 2290000 }
+]

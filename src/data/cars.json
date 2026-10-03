@@ -1,0 +1,4671 @@
+[
+  {
+    "id": 1,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Lada",
+    "model": "Granta Liftback",
+    "name": "Lada Granta Liftback New",
+    "trim": "1.6 MT Comfort",
+    "class": "econom",
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "price": 221100,
+    "day": 82,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MT Comfort",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 90 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 221100,
+        "day": 82
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 105 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 238800,
+        "day": 89
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 120 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 258700,
+        "day": 96
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "name": "Volkswagen POLO New",
+    "trim": "1.6 MPI MT Origin",
+    "class": "econom",
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "price": 289900,
+    "day": 107,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MPI MT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 90 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 289900,
+        "day": 107
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 105 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 313100,
+        "day": 116
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 120 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 339200,
+        "day": 125
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Lada",
+    "model": "Granta Liftback",
+    "name": "Lada Granta Liftback",
+    "trim": "1.6 MT Classic",
+    "class": "econom",
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "price": 198500,
+    "day": 74,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MT Classic",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 87 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 198500,
+        "day": 74
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 102 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 214400,
+        "day": 80
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 117 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 232200,
+        "day": 87
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "name": "Volkswagen POLO",
+    "trim": "1.6 MPI AT Respect",
+    "class": "econom",
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "price": 336400,
+    "day": 125,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MPI AT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 110 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 336400,
+        "day": 125
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 125 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 363300,
+        "day": 135
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 140 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 393600,
+        "day": 146
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Lada",
+    "model": "Granta Liftback",
+    "name": "Lada Granta Liftback Drive",
+    "trim": "1.6 AT Luxe",
+    "class": "econom",
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "price": 254300,
+    "day": 94,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 AT Luxe",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 98 л.с.",
+        "gearbox": "4AT",
+        "drive": "2WD",
+        "price": 254300,
+        "day": 94
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 113 л.с.",
+        "gearbox": "4AT",
+        "drive": "2WD",
+        "price": 274600,
+        "day": 102
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 128 л.с.",
+        "gearbox": "4AT",
+        "drive": "2WD",
+        "price": 297500,
+        "day": 110
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "taxi",
+    "sold": true,
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "name": "Volkswagen POLO Status",
+    "trim": "1.6 MPI MT Exclusive",
+    "class": "econom",
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "price": 311200,
+    "day": 115,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MPI MT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 110 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 311200,
+        "day": 115
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 125 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 336100,
+        "day": 124
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 140 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 364100,
+        "day": 135
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Lada",
+    "model": "Granta Liftback",
+    "name": "Lada Granta Liftback Cross",
+    "trim": "1.6 MT Comfort Plus",
+    "class": "econom",
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "price": 238700,
+    "day": 88,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MT Comfort",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 106 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 238700,
+        "day": 88
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 121 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 257800,
+        "day": 95
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 136 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 279300,
+        "day": 103
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "name": "Volkswagen POLO Taxi",
+    "trim": "1.4 TSI DSG Respect",
+    "class": "econom",
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "price": 352800,
+    "day": 131,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.4 TSI DSG",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.4 - 125 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 352800,
+        "day": 131
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.4 - 140 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 381000,
+        "day": 141
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.4 - 155 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 412800,
+        "day": 153
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "name": "Skoda Octavia",
+    "trim": "1.6 MPI MT Active",
+    "class": "comfort",
+    "image": "car-octavia-taxi.png",
+    "hue": 0,
+    "price": 412000,
+    "day": 153,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MPI MT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 110 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 412000,
+        "day": 153
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 125 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 445000,
+        "day": 165
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 140 л.с.",
+        "gearbox": "5MT",
+        "drive": "2WD",
+        "price": 482000,
+        "day": 179
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia New",
+    "name": "Skoda Octavia New",
+    "trim": "1.6 MPI AT Active",
+    "class": "comfort",
+    "image": "car-octavia-taxi-new.png",
+    "hue": 0,
+    "price": 476900,
+    "day": 177,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.6 MPI AT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.6 - 110 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 476900,
+        "day": 177
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.6 - 125 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 515100,
+        "day": 191
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.6 - 140 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 558000,
+        "day": 207
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "taxi",
+    "sold": true,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "name": "Skoda Octavia Ambition",
+    "trim": "1.4 TSI AT Ambition",
+    "class": "comfort",
+    "image": "car-octavia-taxi.png",
+    "hue": 0,
+    "price": 447300,
+    "day": 166,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.4 TSI AT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.4 - 150 л.с.",
+        "gearbox": "8AT",
+        "drive": "2WD",
+        "price": 447300,
+        "day": 166
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.4 - 165 л.с.",
+        "gearbox": "8AT",
+        "drive": "2WD",
+        "price": 483100,
+        "day": 179
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.4 - 180 л.с.",
+        "gearbox": "8AT",
+        "drive": "2WD",
+        "price": 523300,
+        "day": 194
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia New",
+    "name": "Skoda Octavia New Style",
+    "trim": "1.4 TSI AT Ambition",
+    "class": "comfort-plus",
+    "image": "car-octavia-taxi-new.png",
+    "hue": 0,
+    "price": 598000,
+    "day": 222,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.4 TSI AT",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.4 - 150 л.с.",
+        "gearbox": "8AT",
+        "drive": "2WD",
+        "price": 598000,
+        "day": 222
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.4 - 165 л.с.",
+        "gearbox": "8AT",
+        "drive": "2WD",
+        "price": 645800,
+        "day": 240
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.4 - 180 л.с.",
+        "gearbox": "8AT",
+        "drive": "2WD",
+        "price": 699700,
+        "day": 260
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "name": "Skoda Octavia Style",
+    "trim": "1.8 TSI DSG Style",
+    "class": "comfort-plus",
+    "image": "car-octavia-taxi.png",
+    "hue": 0,
+    "price": 524700,
+    "day": 195,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "1.8 TSI DSG",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "1.8 - 180 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 524700,
+        "day": 195
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "1.8 - 195 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 566700,
+        "day": 211
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "1.8 - 210 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 613900,
+        "day": 228
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "taxi",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia New",
+    "name": "Skoda Octavia New Laurin",
+    "trim": "2.0 TSI DSG Style",
+    "class": "comfort-plus",
+    "image": "car-octavia-taxi-new.png",
+    "hue": 0,
+    "price": 649000,
+    "day": 241,
+    "gifts": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ],
+    "group": "2.0 TSI DSG",
+    "trims": [
+      {
+        "name": "Origin",
+        "discount": 25,
+        "engine": "2.0 - 190 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 649000,
+        "day": 241
+      },
+      {
+        "name": "Respect",
+        "discount": 0,
+        "engine": "2.0 - 205 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 700900,
+        "day": 260
+      },
+      {
+        "name": "Exclusive",
+        "discount": 0,
+        "engine": "2.0 - 220 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 759300,
+        "day": 282
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "new",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "name": "Skoda Octavia",
+    "trim": "1.6 MPI MT Active",
+    "image": "car-octavia-black.png",
+    "hue": 0,
+    "body": "Лифтбек",
+    "year": 2020,
+    "price": 1615000,
+    "oldPrice": 1915000,
+    "benefit": 300000,
+    "stock": 3,
+    "hp": 115,
+    "fuel": 5.3,
+    "speed": 189,
+    "accel": 10.3,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-octavia-black.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-octavia-black.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-octavia-black.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-octavia-black.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-octavia-black.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-octavia-black.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.6 MT",
+        "name": "1.6 MT Стандарт 2020",
+        "engine": "1.6 - 115 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1615000,
+        "oldPrice": 1906000
+      },
+      {
+        "id": 2,
+        "group": "1.6 MT",
+        "name": "1.6 MT Комфорт 2020",
+        "engine": "1.6 - 120 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1712000,
+        "oldPrice": 2020000
+      },
+      {
+        "id": 3,
+        "group": "1.6 MT",
+        "name": "1.6 MT Престиж 2020",
+        "engine": "1.6 - 125 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1809000,
+        "oldPrice": 2135000
+      },
+      {
+        "id": 4,
+        "group": "2.1 MT",
+        "name": "2.1 MT Комфорт 2020",
+        "engine": "2.1 - 145 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1809000,
+        "oldPrice": 2135000
+      },
+      {
+        "id": 5,
+        "group": "2.1 MT",
+        "name": "2.1 MT Престиж 2020",
+        "engine": "2.1 - 150 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1906000,
+        "oldPrice": 2249000
+      }
+    ],
+    "dims": {
+      "length": 4450,
+      "width": 1740,
+      "height": 1440,
+      "base": 2600,
+      "clearance": 150
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1568 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "72.0 / 84.0 мм"
+          ],
+          [
+            "Степень сжатия",
+            "10.5"
+          ],
+          [
+            "Максимальная мощность",
+            "115 л.с. (84.6 кВт) при 5500 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "152 Н*м при 3800 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6MT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.4 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1180 кг"
+          ],
+          [
+            "Полная масса",
+            "1650 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Лифтбек"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "420 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "189 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "10.3 с"
+          ],
+          [
+            "Расход смешанный",
+            "5.3 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "type": "new",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Camry",
+    "name": "Toyota Camry",
+    "trim": "2.0 AT Стандарт",
+    "image": "car-camry-white.png",
+    "hue": 0,
+    "body": "Седан",
+    "year": 2020,
+    "price": 2150000,
+    "oldPrice": 2450000,
+    "benefit": 300000,
+    "stock": 10,
+    "hp": 150,
+    "fuel": 7.1,
+    "speed": 210,
+    "accel": 9.9,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Blue Flame",
+        "hex": "#1A7CCC",
+        "image": "car-camry-white.png",
+        "tint": "#3C8FE0"
+      },
+      {
+        "name": "Emotional Red",
+        "hex": "#E50914",
+        "image": "car-camry-white.png",
+        "tint": "#E8202A"
+      },
+      {
+        "name": "Platinum White",
+        "hex": "#ECECEC",
+        "image": "car-camry-white.png",
+        "tint": null
+      },
+      {
+        "name": "Super White",
+        "hex": "#FFFFFF",
+        "image": "car-camry-white.png",
+        "tint": null
+      },
+      {
+        "name": "Silver Metallic",
+        "hex": "#C4C4C4",
+        "image": "car-camry-white.png",
+        "tint": "#C9C9C9"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#6B6B6B",
+        "image": "car-camry-white.png",
+        "tint": "#7A7A7A"
+      },
+      {
+        "name": "Night Black",
+        "hex": "#262626",
+        "image": "car-camry-black.png",
+        "tint": null
+      },
+      {
+        "name": "Dark Red Mica",
+        "hex": "#A82024",
+        "image": "car-camry-white.png",
+        "tint": "#AD2A2E"
+      },
+      {
+        "name": "Bronze Brown",
+        "hex": "#6E5E55",
+        "image": "car-camry-white.png",
+        "tint": "#7B675C"
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "2.0 AT",
+        "name": "2.0 AT Стандарт 2020",
+        "engine": "2.0 - 150 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2150000,
+        "oldPrice": 2537000
+      },
+      {
+        "id": 2,
+        "group": "2.0 AT",
+        "name": "2.0 AT Комфорт 2020",
+        "engine": "2.0 - 155 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2279000,
+        "oldPrice": 2689000
+      },
+      {
+        "id": 3,
+        "group": "2.0 AT",
+        "name": "2.0 AT Престиж 2020",
+        "engine": "2.0 - 160 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2408000,
+        "oldPrice": 2841000
+      },
+      {
+        "id": 4,
+        "group": "2.5 AT",
+        "name": "2.5 AT Комфорт 2020",
+        "engine": "2.5 - 180 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2408000,
+        "oldPrice": 2841000
+      },
+      {
+        "id": 5,
+        "group": "2.5 AT",
+        "name": "2.5 AT Престиж 2020",
+        "engine": "2.5 - 185 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2537000,
+        "oldPrice": 2994000
+      }
+    ],
+    "dims": {
+      "length": 4459,
+      "width": 1746,
+      "height": 1444,
+      "base": 2611,
+      "clearance": 151
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1968 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "72.5 / 83.7 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.0"
+          ],
+          [
+            "Максимальная мощность",
+            "150 л.с. (110.3 кВт) при 5750 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "198 Н*м при 4000 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.6 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1217 кг"
+          ],
+          [
+            "Полная масса",
+            "1691 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "438 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "210 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "9.9 с"
+          ],
+          [
+            "Расход смешанный",
+            "7.1 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "type": "new",
+    "sold": false,
+    "brand": "Kia",
+    "model": "Rio",
+    "name": "Kia Rio",
+    "trim": "1.6 AT Comfort",
+    "image": "car-kia-rio-red.png",
+    "hue": 0,
+    "body": "Седан",
+    "year": 2020,
+    "price": 1189000,
+    "oldPrice": 1299000,
+    "benefit": 110000,
+    "stock": 17,
+    "hp": 123,
+    "fuel": 6.6,
+    "speed": 192,
+    "accel": 11.2,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-kia-rio-red.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-kia-rio-red.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-kia-rio-red.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-kia-rio-red.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-kia-rio-red.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-kia-rio-red.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.6 AT",
+        "name": "1.6 AT Стандарт 2020",
+        "engine": "1.6 - 123 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1189000,
+        "oldPrice": 1403000
+      },
+      {
+        "id": 2,
+        "group": "1.6 AT",
+        "name": "1.6 AT Комфорт 2020",
+        "engine": "1.6 - 128 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1260000,
+        "oldPrice": 1487000
+      },
+      {
+        "id": 3,
+        "group": "1.6 AT",
+        "name": "1.6 AT Престиж 2020",
+        "engine": "1.6 - 133 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1332000,
+        "oldPrice": 1572000
+      },
+      {
+        "id": 4,
+        "group": "2.1 AT",
+        "name": "2.1 AT Комфорт 2020",
+        "engine": "2.1 - 153 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1332000,
+        "oldPrice": 1572000
+      },
+      {
+        "id": 5,
+        "group": "2.1 AT",
+        "name": "2.1 AT Престиж 2020",
+        "engine": "2.1 - 158 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1403000,
+        "oldPrice": 1656000
+      }
+    ],
+    "dims": {
+      "length": 4468,
+      "width": 1752,
+      "height": 1448,
+      "base": 2622,
+      "clearance": 152
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1568 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "73.0 / 83.4 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.5"
+          ],
+          [
+            "Максимальная мощность",
+            "123 л.с. (90.5 кВт) при 6000 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "162 Н*м при 4200 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.8 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1254 кг"
+          ],
+          [
+            "Полная масса",
+            "1732 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "456 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "192 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "11.2 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.6 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "type": "new",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "name": "Toyota Corolla",
+    "trim": "1.6 CVT Комфорт",
+    "image": "car-corolla-gray.png",
+    "hue": 0,
+    "body": "Седан",
+    "year": 2020,
+    "price": 1764000,
+    "oldPrice": 1980000,
+    "benefit": 216000,
+    "stock": 6,
+    "hp": 122,
+    "fuel": 6.3,
+    "speed": 195,
+    "accel": 10.8,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-corolla-gray.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-corolla-gray.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-corolla-gray.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-corolla-gray.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-corolla-gray.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-corolla-gray.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.6 CVT",
+        "name": "1.6 CVT Стандарт 2020",
+        "engine": "1.6 - 122 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 1764000,
+        "oldPrice": 2082000
+      },
+      {
+        "id": 2,
+        "group": "1.6 CVT",
+        "name": "1.6 CVT Комфорт 2020",
+        "engine": "1.6 - 127 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 1870000,
+        "oldPrice": 2207000
+      },
+      {
+        "id": 3,
+        "group": "1.6 CVT",
+        "name": "1.6 CVT Престиж 2020",
+        "engine": "1.6 - 132 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 1976000,
+        "oldPrice": 2332000
+      },
+      {
+        "id": 4,
+        "group": "2.1 CVT",
+        "name": "2.1 CVT Комфорт 2020",
+        "engine": "2.1 - 152 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 1976000,
+        "oldPrice": 2332000
+      },
+      {
+        "id": 5,
+        "group": "2.1 CVT",
+        "name": "2.1 CVT Престиж 2020",
+        "engine": "2.1 - 157 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2082000,
+        "oldPrice": 2457000
+      }
+    ],
+    "dims": {
+      "length": 4477,
+      "width": 1758,
+      "height": 1452,
+      "base": 2633,
+      "clearance": 153
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1568 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "73.5 / 83.1 мм"
+          ],
+          [
+            "Степень сжатия",
+            "10.5"
+          ],
+          [
+            "Максимальная мощность",
+            "122 л.с. (89.7 кВт) при 6250 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "161 Н*м при 3800 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "CVT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "11.0 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1291 кг"
+          ],
+          [
+            "Полная масса",
+            "1773 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "474 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "195 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "10.8 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.3 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "type": "new",
+    "sold": false,
+    "brand": "Hyundai",
+    "model": "Creta",
+    "name": "Hyundai Creta",
+    "trim": "2.0 AT Lifestyle",
+    "image": "car-hyundai-creta.png",
+    "hue": 0,
+    "body": "Кроссовер",
+    "year": 2020,
+    "price": 1969000,
+    "oldPrice": 2159000,
+    "benefit": 190000,
+    "stock": 13,
+    "hp": 149,
+    "fuel": 7.9,
+    "speed": 183,
+    "accel": 10.7,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-hyundai-creta.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-hyundai-creta.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-hyundai-creta.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-hyundai-creta.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-hyundai-creta.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-hyundai-creta.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "2.0 AT",
+        "name": "2.0 AT Стандарт 2020",
+        "engine": "2.0 - 149 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1969000,
+        "oldPrice": 2323000
+      },
+      {
+        "id": 2,
+        "group": "2.0 AT",
+        "name": "2.0 AT Комфорт 2020",
+        "engine": "2.0 - 154 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2087000,
+        "oldPrice": 2463000
+      },
+      {
+        "id": 3,
+        "group": "2.0 AT",
+        "name": "2.0 AT Престиж 2020",
+        "engine": "2.0 - 159 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2205000,
+        "oldPrice": 2602000
+      },
+      {
+        "id": 4,
+        "group": "2.5 AT",
+        "name": "2.5 AT Комфорт 2020",
+        "engine": "2.5 - 179 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2205000,
+        "oldPrice": 2602000
+      },
+      {
+        "id": 5,
+        "group": "2.5 AT",
+        "name": "2.5 AT Престиж 2020",
+        "engine": "2.5 - 184 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2323000,
+        "oldPrice": 2741000
+      }
+    ],
+    "dims": {
+      "length": 4408,
+      "width": 1764,
+      "height": 1642,
+      "base": 2644,
+      "clearance": 194
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1968 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "74.0 / 82.8 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.0"
+          ],
+          [
+            "Максимальная мощность",
+            "149 л.с. (109.6 кВт) при 5500 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "197 Н*м при 4000 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "11.2 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1328 кг"
+          ],
+          [
+            "Полная масса",
+            "1814 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Кроссовер"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "492 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "183 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "10.7 с"
+          ],
+          [
+            "Расход смешанный",
+            "7.9 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "type": "new",
+    "sold": true,
+    "brand": "Skoda",
+    "model": "Karoq",
+    "name": "Skoda Karoq",
+    "trim": "1.4 TSI AT Style",
+    "image": "car-karoq-blue.png",
+    "hue": 0,
+    "body": "Кроссовер",
+    "year": 2020,
+    "price": 2349000,
+    "oldPrice": 2590000,
+    "benefit": 241000,
+    "stock": 20,
+    "hp": 150,
+    "fuel": 6.4,
+    "speed": 199,
+    "accel": 8.9,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-karoq-blue.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-karoq-blue.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-karoq-blue.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-karoq-blue.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-karoq-blue.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-karoq-blue.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.4 AT",
+        "name": "1.4 AT Стандарт 2020",
+        "engine": "1.4 - 150 л.с.",
+        "gearbox": "6AT",
+        "drive": "AWD",
+        "price": 2349000,
+        "oldPrice": 2772000
+      },
+      {
+        "id": 2,
+        "group": "1.4 AT",
+        "name": "1.4 AT Комфорт 2020",
+        "engine": "1.4 - 155 л.с.",
+        "gearbox": "6AT",
+        "drive": "AWD",
+        "price": 2490000,
+        "oldPrice": 2938000
+      },
+      {
+        "id": 3,
+        "group": "1.4 AT",
+        "name": "1.4 AT Престиж 2020",
+        "engine": "1.4 - 160 л.с.",
+        "gearbox": "6AT",
+        "drive": "AWD",
+        "price": 2631000,
+        "oldPrice": 3105000
+      },
+      {
+        "id": 4,
+        "group": "1.9 AT",
+        "name": "1.9 AT Комфорт 2020",
+        "engine": "1.9 - 180 л.с.",
+        "gearbox": "6AT",
+        "drive": "AWD",
+        "price": 2631000,
+        "oldPrice": 3105000
+      },
+      {
+        "id": 5,
+        "group": "1.9 AT",
+        "name": "1.9 AT Престиж 2020",
+        "engine": "1.9 - 185 л.с.",
+        "gearbox": "6AT",
+        "drive": "AWD",
+        "price": 2772000,
+        "oldPrice": 3271000
+      }
+    ],
+    "dims": {
+      "length": 4415,
+      "width": 1770,
+      "height": 1645,
+      "base": 2655,
+      "clearance": 195
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1368 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "74.5 / 82.5 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.5"
+          ],
+          [
+            "Максимальная мощность",
+            "150 л.с. (110.3 кВт) при 5750 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "198 Н*м при 4200 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Полный"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.4 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1365 кг"
+          ],
+          [
+            "Полная масса",
+            "1855 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Кроссовер"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "510 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "199 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "8.9 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.4 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "type": "new",
+    "sold": false,
+    "brand": "Mazda",
+    "model": "3",
+    "name": "Mazda 3",
+    "trim": "1.5 AT Active",
+    "image": "car-mazda3-red.png",
+    "hue": 0,
+    "body": "Седан",
+    "year": 2020,
+    "price": 1879000,
+    "oldPrice": 2049000,
+    "benefit": 170000,
+    "stock": 9,
+    "hp": 120,
+    "fuel": 6.1,
+    "speed": 197,
+    "accel": 10.6,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.5 AT",
+        "name": "1.5 AT Стандарт 2020",
+        "engine": "1.5 - 120 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1879000,
+        "oldPrice": 2217000
+      },
+      {
+        "id": 2,
+        "group": "1.5 AT",
+        "name": "1.5 AT Комфорт 2020",
+        "engine": "1.5 - 125 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1992000,
+        "oldPrice": 2351000
+      },
+      {
+        "id": 3,
+        "group": "1.5 AT",
+        "name": "1.5 AT Престиж 2020",
+        "engine": "1.5 - 130 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2104000,
+        "oldPrice": 2483000
+      },
+      {
+        "id": 4,
+        "group": "2.0 AT",
+        "name": "2.0 AT Комфорт 2020",
+        "engine": "2.0 - 150 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2104000,
+        "oldPrice": 2483000
+      },
+      {
+        "id": 5,
+        "group": "2.0 AT",
+        "name": "2.0 AT Престиж 2020",
+        "engine": "2.0 - 155 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2217000,
+        "oldPrice": 2616000
+      }
+    ],
+    "dims": {
+      "length": 4504,
+      "width": 1776,
+      "height": 1464,
+      "base": 2666,
+      "clearance": 156
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1468 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "75.0 / 82.2 мм"
+          ],
+          [
+            "Степень сжатия",
+            "10.5"
+          ],
+          [
+            "Максимальная мощность",
+            "120 л.с. (88.3 кВт) при 6000 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "158 Н*м при 3800 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.6 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1402 кг"
+          ],
+          [
+            "Полная масса",
+            "1896 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "528 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "197 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "10.6 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.1 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "type": "new",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "RAV4",
+    "name": "Toyota RAV4",
+    "trim": "2.0 CVT Комфорт",
+    "image": "car-rav4-white.png",
+    "hue": 0,
+    "body": "Кроссовер",
+    "year": 2020,
+    "price": 2799000,
+    "oldPrice": 3090000,
+    "benefit": 291000,
+    "stock": 16,
+    "hp": 149,
+    "fuel": 7.4,
+    "speed": 180,
+    "accel": 11,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-rav4-white.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-rav4-white.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-rav4-white.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-rav4-white.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-rav4-white.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-rav4-white.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "2.0 CVT",
+        "name": "2.0 CVT Стандарт 2020",
+        "engine": "2.0 - 149 л.с.",
+        "gearbox": "CVT",
+        "drive": "AWD",
+        "price": 2799000,
+        "oldPrice": 3303000
+      },
+      {
+        "id": 2,
+        "group": "2.0 CVT",
+        "name": "2.0 CVT Комфорт 2020",
+        "engine": "2.0 - 154 л.с.",
+        "gearbox": "CVT",
+        "drive": "AWD",
+        "price": 2967000,
+        "oldPrice": 3501000
+      },
+      {
+        "id": 3,
+        "group": "2.0 CVT",
+        "name": "2.0 CVT Престиж 2020",
+        "engine": "2.0 - 159 л.с.",
+        "gearbox": "CVT",
+        "drive": "AWD",
+        "price": 3135000,
+        "oldPrice": 3699000
+      },
+      {
+        "id": 4,
+        "group": "2.5 CVT",
+        "name": "2.5 CVT Комфорт 2020",
+        "engine": "2.5 - 179 л.с.",
+        "gearbox": "CVT",
+        "drive": "AWD",
+        "price": 3135000,
+        "oldPrice": 3699000
+      },
+      {
+        "id": 5,
+        "group": "2.5 CVT",
+        "name": "2.5 CVT Престиж 2020",
+        "engine": "2.5 - 184 л.с.",
+        "gearbox": "CVT",
+        "drive": "AWD",
+        "price": 3303000,
+        "oldPrice": 3898000
+      }
+    ],
+    "dims": {
+      "length": 4429,
+      "width": 1782,
+      "height": 1651,
+      "base": 2677,
+      "clearance": 197
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1968 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "75.5 / 81.9 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.0"
+          ],
+          [
+            "Максимальная мощность",
+            "149 л.с. (109.6 кВт) при 6250 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "197 Н*м при 4000 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "CVT"
+          ],
+          [
+            "Привод",
+            "Полный"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.8 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1439 кг"
+          ],
+          [
+            "Полная масса",
+            "1937 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Кроссовер"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "546 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "180 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "11 с"
+          ],
+          [
+            "Расход смешанный",
+            "7.4 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "type": "new",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Superb",
+    "name": "Skoda Superb",
+    "trim": "2.0 TSI DSG Style",
+    "image": "car-superb-silver.png",
+    "hue": 0,
+    "body": "Лифтбек",
+    "year": 2020,
+    "price": 3159000,
+    "oldPrice": 3420000,
+    "benefit": 261000,
+    "stock": 5,
+    "hp": 190,
+    "fuel": 6.9,
+    "speed": 239,
+    "accel": 7.7,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-superb-silver.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-superb-silver.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-superb-silver.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-superb-silver.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-superb-silver.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-superb-silver.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "2.0 DSG",
+        "name": "2.0 DSG Стандарт 2020",
+        "engine": "2.0 - 190 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 3159000,
+        "oldPrice": 3728000
+      },
+      {
+        "id": 2,
+        "group": "2.0 DSG",
+        "name": "2.0 DSG Комфорт 2020",
+        "engine": "2.0 - 195 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 3349000,
+        "oldPrice": 3952000
+      },
+      {
+        "id": 3,
+        "group": "2.0 DSG",
+        "name": "2.0 DSG Престиж 2020",
+        "engine": "2.0 - 200 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 3538000,
+        "oldPrice": 4175000
+      },
+      {
+        "id": 4,
+        "group": "2.5 DSG",
+        "name": "2.5 DSG Комфорт 2020",
+        "engine": "2.5 - 220 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 3538000,
+        "oldPrice": 4175000
+      },
+      {
+        "id": 5,
+        "group": "2.5 DSG",
+        "name": "2.5 DSG Престиж 2020",
+        "engine": "2.5 - 225 л.с.",
+        "gearbox": "7DSG",
+        "drive": "2WD",
+        "price": 3728000,
+        "oldPrice": 4399000
+      }
+    ],
+    "dims": {
+      "length": 4522,
+      "width": 1788,
+      "height": 1472,
+      "base": 2688,
+      "clearance": 158
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1968 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "76.0 / 81.6 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.5"
+          ],
+          [
+            "Максимальная мощность",
+            "190 л.с. (139.7 кВт) при 5500 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "251 Н*м при 4200 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "7DSG"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "11.0 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1476 кг"
+          ],
+          [
+            "Полная масса",
+            "1978 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Лифтбек"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "564 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "239 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "7.7 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.9 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "type": "new",
+    "sold": false,
+    "brand": "Kia",
+    "model": "Rio X",
+    "name": "Kia Rio X",
+    "trim": "1.6 AT Prestige",
+    "image": "car-kia-rio-red-2.png",
+    "hue": 205,
+    "body": "Хэтчбек",
+    "year": 2020,
+    "price": 1339000,
+    "oldPrice": 1459000,
+    "benefit": 120000,
+    "stock": 12,
+    "hp": 123,
+    "fuel": 6.9,
+    "speed": 185,
+    "accel": 11.6,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(200 75% 45%)",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 205
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(40 75% 45%)",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 45
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(310 75% 45%)",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 315
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(225 75% 45%)",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 230
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(120 75% 45%)",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 125
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(0 75% 45%)",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 5
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.6 AT",
+        "name": "1.6 AT Стандарт 2020",
+        "engine": "1.6 - 123 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1339000,
+        "oldPrice": 1580000
+      },
+      {
+        "id": 2,
+        "group": "1.6 AT",
+        "name": "1.6 AT Комфорт 2020",
+        "engine": "1.6 - 128 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1419000,
+        "oldPrice": 1674000
+      },
+      {
+        "id": 3,
+        "group": "1.6 AT",
+        "name": "1.6 AT Престиж 2020",
+        "engine": "1.6 - 133 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1500000,
+        "oldPrice": 1770000
+      },
+      {
+        "id": 4,
+        "group": "2.1 AT",
+        "name": "2.1 AT Комфорт 2020",
+        "engine": "2.1 - 153 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1500000,
+        "oldPrice": 1770000
+      },
+      {
+        "id": 5,
+        "group": "2.1 AT",
+        "name": "2.1 AT Престиж 2020",
+        "engine": "2.1 - 158 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1580000,
+        "oldPrice": 1864000
+      }
+    ],
+    "dims": {
+      "length": 4531,
+      "width": 1794,
+      "height": 1476,
+      "base": 2699,
+      "clearance": 159
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1568 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "76.5 / 81.3 мм"
+          ],
+          [
+            "Степень сжатия",
+            "10.5"
+          ],
+          [
+            "Максимальная мощность",
+            "123 л.с. (90.5 кВт) при 5750 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "162 Н*м при 3800 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "11.2 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1513 кг"
+          ],
+          [
+            "Полная масса",
+            "2019 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Хэтчбек"
+          ],
+          [
+            "Количество дверей",
+            "5"
+          ],
+          [
+            "Объем багажника",
+            "582 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "185 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "11.6 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.9 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "type": "new",
+    "sold": true,
+    "brand": "Skoda",
+    "model": "Rapid",
+    "name": "Skoda Rapid",
+    "trim": "1.6 MPI AT Ambition",
+    "image": "car-rapid-silver.png",
+    "hue": 0,
+    "body": "Лифтбек",
+    "year": 2020,
+    "price": 1289000,
+    "oldPrice": 1415000,
+    "benefit": 126000,
+    "stock": 19,
+    "hp": 110,
+    "fuel": 6,
+    "speed": 190,
+    "accel": 11.7,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-rapid-silver.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-rapid-silver.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-rapid-silver.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-rapid-silver.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-rapid-silver.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-rapid-silver.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.6 AT",
+        "name": "1.6 AT Стандарт 2020",
+        "engine": "1.6 - 110 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1289000,
+        "oldPrice": 1521000
+      },
+      {
+        "id": 2,
+        "group": "1.6 AT",
+        "name": "1.6 AT Комфорт 2020",
+        "engine": "1.6 - 115 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1366000,
+        "oldPrice": 1612000
+      },
+      {
+        "id": 3,
+        "group": "1.6 AT",
+        "name": "1.6 AT Престиж 2020",
+        "engine": "1.6 - 120 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1444000,
+        "oldPrice": 1704000
+      },
+      {
+        "id": 4,
+        "group": "2.1 AT",
+        "name": "2.1 AT Комфорт 2020",
+        "engine": "2.1 - 140 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1444000,
+        "oldPrice": 1704000
+      },
+      {
+        "id": 5,
+        "group": "2.1 AT",
+        "name": "2.1 AT Престиж 2020",
+        "engine": "2.1 - 145 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 1521000,
+        "oldPrice": 1795000
+      }
+    ],
+    "dims": {
+      "length": 4540,
+      "width": 1800,
+      "height": 1480,
+      "base": 2710,
+      "clearance": 160
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1568 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "77.0 / 81.0 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.0"
+          ],
+          [
+            "Максимальная мощность",
+            "110 л.с. (80.9 кВт) при 6000 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "145 Н*м при 4000 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.4 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1550 кг"
+          ],
+          [
+            "Полная масса",
+            "2060 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Лифтбек"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "600 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "190 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "11.7 с"
+          ],
+          [
+            "Расход смешанный",
+            "6 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "type": "new",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Prius",
+    "name": "Toyota Prius",
+    "trim": "1.8 Hybrid CVT",
+    "image": "car-prius-silver.png",
+    "hue": 0,
+    "body": "Хэтчбек",
+    "year": 2020,
+    "price": 2649000,
+    "oldPrice": 2890000,
+    "benefit": 241000,
+    "stock": 8,
+    "hp": 122,
+    "fuel": 3.4,
+    "speed": 180,
+    "accel": 10.6,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-prius-silver.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-prius-silver.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-prius-silver.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-prius-silver.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-prius-silver.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-prius-silver.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.8 CVT",
+        "name": "1.8 CVT Стандарт 2020",
+        "engine": "1.8 - 122 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2649000,
+        "oldPrice": 3126000
+      },
+      {
+        "id": 2,
+        "group": "1.8 CVT",
+        "name": "1.8 CVT Комфорт 2020",
+        "engine": "1.8 - 127 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2808000,
+        "oldPrice": 3313000
+      },
+      {
+        "id": 3,
+        "group": "1.8 CVT",
+        "name": "1.8 CVT Престиж 2020",
+        "engine": "1.8 - 132 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2967000,
+        "oldPrice": 3501000
+      },
+      {
+        "id": 4,
+        "group": "2.3 CVT",
+        "name": "2.3 CVT Комфорт 2020",
+        "engine": "2.3 - 152 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2967000,
+        "oldPrice": 3501000
+      },
+      {
+        "id": 5,
+        "group": "2.3 CVT",
+        "name": "2.3 CVT Престиж 2020",
+        "engine": "2.3 - 157 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 3126000,
+        "oldPrice": 3689000
+      }
+    ],
+    "dims": {
+      "length": 4549,
+      "width": 1806,
+      "height": 1484,
+      "base": 2721,
+      "clearance": 161
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1768 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "77.5 / 80.7 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.5"
+          ],
+          [
+            "Максимальная мощность",
+            "122 л.с. (89.7 кВт) при 6250 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "161 Н*м при 4200 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "CVT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.6 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1587 кг"
+          ],
+          [
+            "Полная масса",
+            "2101 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Хэтчбек"
+          ],
+          [
+            "Количество дверей",
+            "5"
+          ],
+          [
+            "Объем багажника",
+            "618 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "180 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "10.6 с"
+          ],
+          [
+            "Расход смешанный",
+            "3.4 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "type": "new",
+    "sold": false,
+    "brand": "Kia",
+    "model": "Rio Comfort",
+    "name": "Kia Rio Comfort",
+    "trim": "Comfort 1.4 100 л.с. 6MT 2WD",
+    "image": "car-kia-rio-silver.png",
+    "hue": 0,
+    "body": "Седан",
+    "year": 2020,
+    "price": 1099000,
+    "oldPrice": 1250000,
+    "benefit": 151000,
+    "stock": 15,
+    "hp": 100,
+    "fuel": 5.9,
+    "speed": 185,
+    "accel": 12.2,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-kia-rio-silver.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-kia-rio-silver.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-kia-rio-silver.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-kia-rio-silver.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-kia-rio-silver.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-kia-rio-silver.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.4 MT",
+        "name": "1.4 MT Стандарт 2020",
+        "engine": "1.4 - 100 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1099000,
+        "oldPrice": 1297000
+      },
+      {
+        "id": 2,
+        "group": "1.4 MT",
+        "name": "1.4 MT Комфорт 2020",
+        "engine": "1.4 - 105 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1165000,
+        "oldPrice": 1375000
+      },
+      {
+        "id": 3,
+        "group": "1.4 MT",
+        "name": "1.4 MT Престиж 2020",
+        "engine": "1.4 - 110 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1231000,
+        "oldPrice": 1453000
+      },
+      {
+        "id": 4,
+        "group": "1.9 MT",
+        "name": "1.9 MT Комфорт 2020",
+        "engine": "1.9 - 130 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1231000,
+        "oldPrice": 1453000
+      },
+      {
+        "id": 5,
+        "group": "1.9 MT",
+        "name": "1.9 MT Престиж 2020",
+        "engine": "1.9 - 135 л.с.",
+        "gearbox": "6MT",
+        "drive": "2WD",
+        "price": 1297000,
+        "oldPrice": 1530000
+      }
+    ],
+    "dims": {
+      "length": 4558,
+      "width": 1812,
+      "height": 1488,
+      "base": 2732,
+      "clearance": 162
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1368 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "78.0 / 80.4 мм"
+          ],
+          [
+            "Степень сжатия",
+            "10.5"
+          ],
+          [
+            "Максимальная мощность",
+            "100 л.с. (73.6 кВт) при 5500 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "132 Н*м при 3800 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6MT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "10.8 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1624 кг"
+          ],
+          [
+            "Полная масса",
+            "2142 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "636 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "185 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "12.2 с"
+          ],
+          [
+            "Расход смешанный",
+            "5.9 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "type": "new",
+    "sold": false,
+    "brand": "Mazda",
+    "model": "3 Supreme",
+    "name": "Mazda 3 Supreme",
+    "trim": "2.0 AT Supreme",
+    "image": "car-mazda3-red.png",
+    "hue": 215,
+    "body": "Седан",
+    "year": 2020,
+    "price": 2219000,
+    "oldPrice": 2399000,
+    "benefit": 180000,
+    "stock": 4,
+    "hp": 150,
+    "fuel": 6.6,
+    "speed": 210,
+    "accel": 8.7,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(210 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 215
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(50 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 55
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(320 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 325
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(235 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 240
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(130 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 135
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(10 75% 45%)",
+        "image": "car-mazda3-red.png",
+        "hue": 15
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "2.0 AT",
+        "name": "2.0 AT Стандарт 2020",
+        "engine": "2.0 - 150 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2219000,
+        "oldPrice": 2618000
+      },
+      {
+        "id": 2,
+        "group": "2.0 AT",
+        "name": "2.0 AT Комфорт 2020",
+        "engine": "2.0 - 155 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2352000,
+        "oldPrice": 2775000
+      },
+      {
+        "id": 3,
+        "group": "2.0 AT",
+        "name": "2.0 AT Престиж 2020",
+        "engine": "2.0 - 160 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2485000,
+        "oldPrice": 2932000
+      },
+      {
+        "id": 4,
+        "group": "2.5 AT",
+        "name": "2.5 AT Комфорт 2020",
+        "engine": "2.5 - 180 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2485000,
+        "oldPrice": 2932000
+      },
+      {
+        "id": 5,
+        "group": "2.5 AT",
+        "name": "2.5 AT Престиж 2020",
+        "engine": "2.5 - 185 л.с.",
+        "gearbox": "6AT",
+        "drive": "2WD",
+        "price": 2618000,
+        "oldPrice": 3089000
+      }
+    ],
+    "dims": {
+      "length": 4567,
+      "width": 1818,
+      "height": 1492,
+      "base": 2743,
+      "clearance": 163
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1968 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "78.5 / 80.1 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.0"
+          ],
+          [
+            "Максимальная мощность",
+            "150 л.с. (110.3 кВт) при 5750 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "198 Н*м при 4000 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "6AT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "11.0 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Многорычажная"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1661 кг"
+          ],
+          [
+            "Полная масса",
+            "2183 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "654 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "210 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "8.7 с"
+          ],
+          [
+            "Расход смешанный",
+            "6.6 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "type": "new",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Corolla Hybrid",
+    "name": "Toyota Corolla Hybrid",
+    "trim": "1.8 Hybrid CVT Престиж",
+    "image": "car-corolla-white.png",
+    "hue": 0,
+    "body": "Седан",
+    "year": 2020,
+    "price": 2289000,
+    "oldPrice": 2499000,
+    "benefit": 210000,
+    "stock": 11,
+    "hp": 122,
+    "fuel": 4.1,
+    "speed": 180,
+    "accel": 11,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Original",
+        "hex": "hsl(355 75% 45%)",
+        "image": "car-corolla-white.png",
+        "hue": 0
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "hsl(195 75% 45%)",
+        "image": "car-corolla-white.png",
+        "hue": 200
+      },
+      {
+        "name": "Racing Green",
+        "hex": "hsl(105 75% 45%)",
+        "image": "car-corolla-white.png",
+        "hue": 110
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "hsl(20 75% 45%)",
+        "image": "car-corolla-white.png",
+        "hue": 25
+      },
+      {
+        "name": "Royal Purple",
+        "hex": "hsl(275 75% 45%)",
+        "image": "car-corolla-white.png",
+        "hue": 280
+      },
+      {
+        "name": "Deep Teal",
+        "hex": "hsl(155 75% 45%)",
+        "image": "car-corolla-white.png",
+        "hue": 160
+      }
+    ],
+    "trims": [
+      {
+        "id": 1,
+        "group": "1.8 CVT",
+        "name": "1.8 CVT Стандарт 2020",
+        "engine": "1.8 - 122 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2289000,
+        "oldPrice": 2701000
+      },
+      {
+        "id": 2,
+        "group": "1.8 CVT",
+        "name": "1.8 CVT Комфорт 2020",
+        "engine": "1.8 - 127 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2426000,
+        "oldPrice": 2863000
+      },
+      {
+        "id": 3,
+        "group": "1.8 CVT",
+        "name": "1.8 CVT Престиж 2020",
+        "engine": "1.8 - 132 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2564000,
+        "oldPrice": 3026000
+      },
+      {
+        "id": 4,
+        "group": "2.3 CVT",
+        "name": "2.3 CVT Комфорт 2020",
+        "engine": "2.3 - 152 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2564000,
+        "oldPrice": 3026000
+      },
+      {
+        "id": 5,
+        "group": "2.3 CVT",
+        "name": "2.3 CVT Престиж 2020",
+        "engine": "2.3 - 157 л.с.",
+        "gearbox": "CVT",
+        "drive": "2WD",
+        "price": 2701000,
+        "oldPrice": 3187000
+      }
+    ],
+    "dims": {
+      "length": 4576,
+      "width": 1824,
+      "height": 1496,
+      "base": 2754,
+      "clearance": 164
+    },
+    "specs": [
+      [
+        "Двигатель",
+        [
+          [
+            "Рабочий объем",
+            "1768 см3"
+          ],
+          [
+            "Диаметр цилиндра / Ход поршня",
+            "79.0 / 79.8 мм"
+          ],
+          [
+            "Степень сжатия",
+            "11.5"
+          ],
+          [
+            "Максимальная мощность",
+            "122 л.с. (89.7 кВт) при 6000 об/мин"
+          ],
+          [
+            "Максимальный крутящий момент",
+            "161 Н*м при 4200 об/мин"
+          ]
+        ]
+      ],
+      [
+        "Трансмиссия",
+        [
+          [
+            "Тип КПП",
+            "CVT"
+          ],
+          [
+            "Привод",
+            "Передний"
+          ]
+        ]
+      ],
+      [
+        "Рулевое управление",
+        [
+          [
+            "Усилитель руля",
+            "Электрический"
+          ],
+          [
+            "Диаметр разворота",
+            "11.2 м"
+          ]
+        ]
+      ],
+      [
+        "Подвеска",
+        [
+          [
+            "Передняя",
+            "Независимая, McPherson"
+          ],
+          [
+            "Задняя",
+            "Полузависимая, торсионная балка"
+          ]
+        ]
+      ],
+      [
+        "Масса",
+        [
+          [
+            "Снаряженная масса",
+            "1698 кг"
+          ],
+          [
+            "Полная масса",
+            "2224 кг"
+          ]
+        ]
+      ],
+      [
+        "Кузов",
+        [
+          [
+            "Тип кузова",
+            "Седан"
+          ],
+          [
+            "Количество дверей",
+            "4"
+          ],
+          [
+            "Объем багажника",
+            "672 л"
+          ]
+        ]
+      ],
+      [
+        "Динамика",
+        [
+          [
+            "Максимальная скорость",
+            "180 км/ч"
+          ],
+          [
+            "Разгон 0-100 км/ч",
+            "11 с"
+          ],
+          [
+            "Расход смешанный",
+            "4.1 л/100 км"
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "type": "used",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Camry",
+    "name": "Toyota Camry 2013",
+    "trim": "2.5 AT Стандарт",
+    "image": "car-camry-black.png",
+    "hue": 0,
+    "year": 2013,
+    "price": 1615000,
+    "hp": 181,
+    "volume": 2.5,
+    "drive": "передний",
+    "body": "седан",
+    "gearbox": "автомат",
+    "mileage": 123456,
+    "viewers": 1,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "type": "used",
+    "sold": false,
+    "brand": "Kia",
+    "model": "Rio",
+    "name": "Kia Rio 2017",
+    "trim": "1.6 MT Стандарт",
+    "image": "car-kia-rio-silver.png",
+    "hue": 0,
+    "year": 2017,
+    "price": 749000,
+    "hp": 123,
+    "volume": 1.6,
+    "drive": "передний",
+    "body": "седан",
+    "gearbox": "механика",
+    "mileage": 86300,
+    "viewers": 2,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "type": "used",
+    "sold": false,
+    "brand": "Mazda",
+    "model": "3",
+    "name": "Mazda 3 2016",
+    "trim": "1.5 AT Стандарт",
+    "image": "car-mazda3-red.png",
+    "hue": 220,
+    "year": 2016,
+    "price": 1049000,
+    "hp": 120,
+    "volume": 1.5,
+    "drive": "передний",
+    "body": "седан",
+    "gearbox": "автомат",
+    "mileage": 97500,
+    "viewers": 3,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "type": "used",
+    "sold": true,
+    "brand": "Skoda",
+    "model": "Rapid",
+    "name": "Skoda Rapid 2018",
+    "trim": "1.6 MT Стандарт",
+    "image": "car-rapid-silver.png",
+    "hue": 0,
+    "year": 2018,
+    "price": 859000,
+    "hp": 110,
+    "volume": 1.6,
+    "drive": "передний",
+    "body": "лифтбек",
+    "gearbox": "механика",
+    "mileage": 64200,
+    "viewers": 4,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg",
+      "photo-land-cruiser.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "type": "used",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "RAV4",
+    "name": "Toyota RAV4 2015",
+    "trim": "2.0 AT Стандарт",
+    "image": "car-rav4-white.png",
+    "hue": 0,
+    "year": 2015,
+    "price": 1890000,
+    "hp": 146,
+    "volume": 2,
+    "drive": "полный",
+    "body": "внедорожник",
+    "gearbox": "вариатор",
+    "mileage": 112800,
+    "viewers": 1,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "type": "used",
+    "sold": false,
+    "brand": "Hyundai",
+    "model": "Creta",
+    "name": "Hyundai Creta 2019",
+    "trim": "2.0 AT Стандарт",
+    "image": "car-hyundai-creta.png",
+    "hue": 200,
+    "year": 2019,
+    "price": 1399000,
+    "hp": 149,
+    "volume": 2,
+    "drive": "передний",
+    "body": "внедорожник",
+    "gearbox": "автомат",
+    "mileage": 41900,
+    "viewers": 2,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "type": "used",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Octavia",
+    "name": "Skoda Octavia 2014",
+    "trim": "1.8 AT Стандарт",
+    "image": "car-octavia-black.png",
+    "hue": 0,
+    "year": 2014,
+    "price": 689000,
+    "hp": 152,
+    "volume": 1.8,
+    "drive": "передний",
+    "body": "лифтбек",
+    "gearbox": "робот",
+    "mileage": 154300,
+    "viewers": 3,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "type": "used",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "name": "Toyota Corolla 2012",
+    "trim": "1.6 MT Стандарт",
+    "image": "car-corolla-white.png",
+    "hue": 0,
+    "year": 2012,
+    "price": 459000,
+    "hp": 124,
+    "volume": 1.6,
+    "drive": "передний",
+    "body": "седан",
+    "gearbox": "механика",
+    "mileage": 187600,
+    "viewers": 4,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg",
+      "photo-land-cruiser.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "type": "used",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Karoq",
+    "name": "Skoda Karoq 2020",
+    "trim": "1.4 AT Стандарт",
+    "image": "car-karoq-blue.png",
+    "hue": 300,
+    "year": 2020,
+    "price": 2190000,
+    "hp": 150,
+    "volume": 1.4,
+    "drive": "полный",
+    "body": "внедорожник",
+    "gearbox": "автомат",
+    "mileage": 23400,
+    "viewers": 1,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "type": "used",
+    "sold": true,
+    "brand": "Kia",
+    "model": "Rio X-Line",
+    "name": "Kia Rio X-Line 2018",
+    "trim": "1.6 AT Стандарт",
+    "image": "car-kia-rio-red.png",
+    "hue": 25,
+    "year": 2018,
+    "price": 829000,
+    "hp": 123,
+    "volume": 1.6,
+    "drive": "передний",
+    "body": "хэтчбек",
+    "gearbox": "автомат",
+    "mileage": 72100,
+    "viewers": 2,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "type": "used",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Prius",
+    "name": "Toyota Prius 2011",
+    "trim": "1.8 AT Стандарт",
+    "image": "car-prius-silver.png",
+    "hue": 0,
+    "year": 2011,
+    "price": 489000,
+    "hp": 99,
+    "volume": 1.8,
+    "drive": "передний",
+    "body": "хэтчбек",
+    "gearbox": "вариатор",
+    "mileage": 201400,
+    "viewers": 3,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "type": "used",
+    "sold": false,
+    "brand": "Skoda",
+    "model": "Superb",
+    "name": "Skoda Superb 2017",
+    "trim": "2.0 AT Стандарт",
+    "image": "car-superb-silver.png",
+    "hue": 0,
+    "year": 2017,
+    "price": 1449000,
+    "hp": 220,
+    "volume": 2,
+    "drive": "передний",
+    "body": "лифтбек",
+    "gearbox": "робот",
+    "mileage": 98700,
+    "viewers": 4,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg",
+      "photo-land-cruiser.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "type": "used",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Camry",
+    "name": "Toyota Camry 2010",
+    "trim": "2.4 AT Стандарт",
+    "image": "car-camry-white.png",
+    "hue": 0,
+    "year": 2010,
+    "price": 399000,
+    "hp": 167,
+    "volume": 2.4,
+    "drive": "передний",
+    "body": "седан",
+    "gearbox": "автомат",
+    "mileage": 243000,
+    "viewers": 1,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "type": "used",
+    "sold": false,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "name": "Toyota Corolla 2019",
+    "trim": "1.6 AT Стандарт",
+    "image": "car-corolla-gray.png",
+    "hue": 0,
+    "year": 2019,
+    "price": 1299000,
+    "hp": 122,
+    "volume": 1.6,
+    "drive": "передний",
+    "body": "седан",
+    "gearbox": "вариатор",
+    "mileage": 38600,
+    "viewers": 2,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "type": "used",
+    "sold": false,
+    "brand": "Hyundai",
+    "model": "Creta",
+    "name": "Hyundai Creta 2017",
+    "trim": "1.6 MT Стандарт",
+    "image": "car-hyundai-creta.png",
+    "hue": 0,
+    "year": 2017,
+    "price": 999000,
+    "hp": 123,
+    "volume": 1.6,
+    "drive": "передний",
+    "body": "внедорожник",
+    "gearbox": "механика",
+    "mileage": 91800,
+    "viewers": 3,
+    "photos": [
+      "photo-interior.jpg",
+      "photo-headlight.jpg",
+      "photo-sedan-city.jpg",
+      "photo-camry-road.jpg",
+      "photo-camry-dark.jpg",
+      "photo-corolla-road.jpg"
+    ]
+  }
+]

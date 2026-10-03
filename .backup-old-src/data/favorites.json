@@ -1,0 +1,18 @@
+{
+  "new": [
+    { "id": 3, "sold": true },
+    { "id": 1, "sold": false },
+    { "id": 2, "sold": false },
+    { "id": 6, "sold": false },
+    { "id": 7, "sold": false }
+  ],
+  "used": [
+    { "id": 1, "sold": true },
+    { "id": 5, "sold": false },
+    { "id": 6, "sold": false }
+  ],
+  "taxi": [
+    { "id": 1, "sold": true },
+    { "id": 2, "sold": false }
+  ]
+}

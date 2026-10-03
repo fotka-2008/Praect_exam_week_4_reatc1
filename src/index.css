@@ -1,0 +1,52 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+body {
+  @apply bg-white font-sans text-dark antialiased;
+}
+
+.range {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none;
+}
+
+.range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  pointer-events: auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #cb0101;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #cb0101;
+  cursor: pointer;
+}
+
+.range::-moz-range-thumb {
+  pointer-events: auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #cb0101;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #cb0101;
+  cursor: pointer;
+}
+
+.arrow-btn {
+  clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 50%, calc(100% - 12px) 100%, 0 100%);
+}
+
+.arrow-btn-mid {
+  clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 50%, calc(100% - 12px) 100%, 0 100%, 12px 50%);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}

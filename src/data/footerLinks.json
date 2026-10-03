@@ -1,0 +1,30 @@
+{
+  "nav": [
+    { "title": "Каталог авто", "to": "/new/15" },
+    { "title": "Авто с пробегом", "to": "/used" },
+    { "title": "Кредит и рассрочка", "to": "/credit/express" },
+    { "title": "Спецпредложения", "to": "/special/recycling" },
+    { "title": "Такси в кредит", "to": "/taxi" }
+  ],
+  "brands": [
+    "Kia", "Hyundai", "Skoda", "Volkswagen", "Toyota", "Brilliance",
+    "Changan", "Chery", "CheryExeed", "Chevrolet", "Citroen", "Datsun",
+    "Dongfeng", "DW Hower", "FAW", "Ford", "Foton", "Geely",
+    "Great Wall", "Haima", "Haval", "Honda", "JAC", "Lada",
+    "Lifan", "Mazda", "Mitsubishi", "Nissan", "Opel", "Peugeot",
+    "Ravon", "Renault", "SsangYong", "Suzuki", "UAZ", "Zotye"
+  ],
+  "credit": [
+    { "title": "Экспресс-кредит", "to": "/credit/express" },
+    { "title": "Семейный автомобиль", "to": "/credit/family-car" },
+    { "title": "Первый автомобиль", "to": "/credit/first-car" },
+    { "title": "Работникам медицины", "to": "/credit/medics" },
+    { "title": "Рассрочка", "to": "/credit/installment" },
+    { "title": "Trade-in", "to": "/" }
+  ],
+  "cities": ["Москва", "Санкт-Петербург", "Нижний Новгород", "Краснодар", "Тула"],
+  "legal": [
+    { "title": "Политика конфиденциальности", "to": "/about" },
+    { "title": "Пользовательское соглашение", "to": "/about" }
+  ]
+}

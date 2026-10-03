@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "fullName": "Toyota Camry 2.0 AT Стандарт",
+    "year": 2020,
+    "trim": "Active",
+    "price": 2150000,
+    "oldPrice": 2400000,
+    "benefit": 250000,
+    "image": "car-camry-black.png",
+    "hue": 0,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Blue Flame",
+        "hex": "#1a7ccc",
+        "image": "car-camry-white.png",
+        "tint": "#1a7ccc"
+      },
+      {
+        "name": "Emotional Red",
+        "hex": "#e50914",
+        "image": "car-camry-white.png",
+        "tint": "#e50914"
+      },
+      {
+        "name": "Platinum White",
+        "hex": "#ececec",
+        "image": "car-camry-white.png",
+        "tint": "#ececec"
+      },
+      {
+        "name": "Super White",
+        "hex": "#ffffff",
+        "image": "car-camry-white.png"
+      },
+      {
+        "name": "Silver Metallic",
+        "hex": "#c4c4c4",
+        "image": "car-camry-white.png",
+        "tint": "#c4c4c4"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#6b6b6b",
+        "image": "car-camry-white.png",
+        "tint": "#6b6b6b"
+      },
+      {
+        "name": "Night Black",
+        "hex": "#262626",
+        "image": "car-camry-black.png"
+      },
+      {
+        "name": "Dark Red Mica",
+        "hex": "#9e1b1f",
+        "image": "car-camry-white.png",
+        "tint": "#9e1b1f"
+      },
+      {
+        "name": "Bronze Mica",
+        "hex": "#6d5f55",
+        "image": "car-camry-white.png",
+        "tint": "#6d5f55"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kia Rio",
+    "brand": "Kia",
+    "fullName": "Kia Rio 1.6 AT Prestige",
+    "year": 2021,
+    "trim": "Prestige",
+    "price": 1189900,
+    "oldPrice": 1299900,
+    "benefit": 110000,
+    "image": "car-kia-rio-red.png",
+    "hue": 0,
+    "gifts": [
+      "Коврики и сетка",
+      "КАСКО",
+      "Зимняя резина"
+    ],
+    "colors": [
+      {
+        "name": "Pulse Red",
+        "hex": "#c8161d",
+        "image": "car-kia-rio-red.png"
+      },
+      {
+        "name": "Blue Lagoon",
+        "hex": "#1d5fc5",
+        "image": "car-kia-rio-red.png",
+        "hue": 220
+      },
+      {
+        "name": "Jungle Green",
+        "hex": "#2e7d32",
+        "image": "car-kia-rio-red.png",
+        "hue": 120
+      },
+      {
+        "name": "Silky Silver",
+        "hex": "#c4c4c4",
+        "image": "car-kia-rio-silver.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Skoda Octavia",
+    "brand": "Skoda",
+    "fullName": "Skoda Octavia 1.4 TSI AT Style",
+    "year": 2021,
+    "trim": "Style",
+    "price": 1615000,
+    "oldPrice": 1915000,
+    "benefit": 300000,
+    "image": "car-octavia-black.png",
+    "hue": 0,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Black Magic",
+        "hex": "#262626",
+        "image": "car-octavia-black.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "fullName": "Hyundai Creta 2.0 AT Lifestyle",
+    "year": 2021,
+    "trim": "Lifestyle",
+    "price": 1749000,
+    "oldPrice": 1899000,
+    "benefit": 150000,
+    "image": "car-hyundai-creta.png",
+    "hue": 0,
+    "gifts": [
+      "Сигнализация",
+      "ОСАГО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Fiery Red",
+        "hex": "#c8161d",
+        "image": "car-hyundai-creta.png"
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "#1d5fc5",
+        "image": "car-hyundai-creta.png",
+        "hue": 215
+      },
+      {
+        "name": "Lime Green",
+        "hex": "#6aa32b",
+        "image": "car-hyundai-creta.png",
+        "hue": 95
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Toyota Corolla",
+    "brand": "Toyota",
+    "fullName": "Toyota Corolla 1.6 CVT Комфорт",
+    "year": 2021,
+    "trim": "Комфорт",
+    "price": 1795000,
+    "oldPrice": 1925000,
+    "benefit": 130000,
+    "image": "car-corolla-gray.png",
+    "hue": 0,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Grey Metallic",
+        "hex": "#7a7a7a",
+        "image": "car-corolla-gray.png"
+      },
+      {
+        "name": "Pure White",
+        "hex": "#ffffff",
+        "image": "car-corolla-white.png"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#9e1b1f",
+        "image": "car-corolla-white.png",
+        "tint": "#9e1b1f"
+      },
+      {
+        "name": "Ocean Blue",
+        "hex": "#1a7ccc",
+        "image": "car-corolla-white.png",
+        "tint": "#1a7ccc"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Skoda Karoq",
+    "brand": "Skoda",
+    "fullName": "Skoda Karoq 1.4 TSI AT Ambition",
+    "year": 2021,
+    "trim": "Ambition",
+    "price": 2090000,
+    "oldPrice": 2290000,
+    "benefit": 200000,
+    "image": "car-karoq-blue.png",
+    "hue": 0,
+    "gifts": [
+      "Фаркоп",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Race Blue",
+        "hex": "#1d5fc5",
+        "image": "car-karoq-blue.png"
+      },
+      {
+        "name": "Velvet Red",
+        "hex": "#a3161d",
+        "image": "car-karoq-blue.png",
+        "hue": 140
+      },
+      {
+        "name": "Emerald Green",
+        "hex": "#1f7a4a",
+        "image": "car-karoq-blue.png",
+        "hue": 260
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mazda 3",
+    "brand": "Mazda",
+    "fullName": "Mazda 3 1.5 AT Active",
+    "year": 2021,
+    "trim": "Active",
+    "price": 1985000,
+    "oldPrice": 2105000,
+    "benefit": 120000,
+    "image": "car-mazda3-red.png",
+    "hue": 0,
+    "gifts": [
+      "Оборудование",
+      "ОСАГО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Soul Red",
+        "hex": "#b5141b",
+        "image": "car-mazda3-red.png"
+      },
+      {
+        "name": "Deep Blue",
+        "hex": "#1f3f9e",
+        "image": "car-mazda3-red.png",
+        "hue": 225
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Toyota RAV4",
+    "brand": "Toyota",
+    "fullName": "Toyota RAV4 2.0 CVT Стандарт",
+    "year": 2021,
+    "trim": "Стандарт",
+    "price": 2620000,
+    "oldPrice": 2780000,
+    "benefit": 160000,
+    "image": "car-rav4-white.png",
+    "hue": 0,
+    "gifts": [
+      "Защита картера",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Super White",
+        "hex": "#ffffff",
+        "image": "car-rav4-white.png"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#1f7a4a",
+        "image": "car-rav4-white.png",
+        "tint": "#1f7a4a"
+      },
+      {
+        "name": "Graphite",
+        "hex": "#6b6b6b",
+        "image": "car-rav4-white.png",
+        "tint": "#6b6b6b"
+      }
+    ],
+    "tint": "#1f7a4a"
+  },
+  {
+    "id": 9,
+    "name": "Kia Rio",
+    "brand": "Kia",
+    "fullName": "Kia Rio 1.4 MT Comfort",
+    "year": 2021,
+    "trim": "Comfort",
+    "price": 979900,
+    "oldPrice": 1059900,
+    "benefit": 80000,
+    "image": "car-kia-rio-red-2.png",
+    "hue": 200,
+    "gifts": [
+      "Коврики",
+      "ОСАГО",
+      "Зимняя резина"
+    ],
+    "colors": [
+      {
+        "name": "Blue Lagoon",
+        "hex": "#1d5fc5",
+        "image": "car-kia-rio-red-2.png",
+        "hue": 200
+      },
+      {
+        "name": "Pulse Red",
+        "hex": "#c8161d",
+        "image": "car-kia-rio-red-2.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Skoda Rapid",
+    "brand": "Skoda",
+    "fullName": "Skoda Rapid 1.6 MPI AT Ambition",
+    "year": 2021,
+    "trim": "Ambition",
+    "price": 1275000,
+    "oldPrice": 1375000,
+    "benefit": 100000,
+    "image": "car-rapid-silver.png",
+    "hue": 0,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Brilliant Silver",
+        "hex": "#c4c4c4",
+        "image": "car-rapid-silver.png"
+      },
+      {
+        "name": "Race Blue",
+        "hex": "#1a7ccc",
+        "image": "car-rapid-silver.png",
+        "tint": "#3f8fd6"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "fullName": "Toyota Camry 2.5 AT Престиж",
+    "year": 2021,
+    "trim": "Престиж",
+    "price": 2790000,
+    "oldPrice": 2950000,
+    "benefit": 160000,
+    "image": "car-camry-white.png",
+    "hue": 0,
+    "gifts": [
+      "Оборудование",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Super White",
+        "hex": "#ffffff",
+        "image": "car-camry-white.png"
+      },
+      {
+        "name": "Night Black",
+        "hex": "#262626",
+        "image": "car-camry-black.png"
+      },
+      {
+        "name": "Blue Flame",
+        "hex": "#1a7ccc",
+        "image": "car-camry-white.png",
+        "tint": "#1a7ccc"
+      },
+      {
+        "name": "Dark Red Mica",
+        "hex": "#9e1b1f",
+        "image": "car-camry-white.png",
+        "tint": "#9e1b1f"
+      }
+    ],
+    "tint": "#1a7ccc"
+  },
+  {
+    "id": 12,
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "fullName": "Hyundai Creta 1.6 MT Family",
+    "year": 2021,
+    "trim": "Family",
+    "price": 1389000,
+    "oldPrice": 1469000,
+    "benefit": 80000,
+    "image": "car-hyundai-creta.png",
+    "hue": 200,
+    "gifts": [
+      "Сигнализация",
+      "КАСКО",
+      "Комплект резины"
+    ],
+    "colors": [
+      {
+        "name": "Ocean Blue",
+        "hex": "#1d5fc5",
+        "image": "car-hyundai-creta.png",
+        "hue": 200
+      },
+      {
+        "name": "Fiery Red",
+        "hex": "#c8161d",
+        "image": "car-hyundai-creta.png"
+      }
+    ]
+  }
+]

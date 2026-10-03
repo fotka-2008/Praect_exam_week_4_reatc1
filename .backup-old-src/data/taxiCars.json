@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "model": "Lada Granta Liftback New",
+    "trim": "1.6 MT Comfort",
+    "class": "econom",
+    "price": 221100,
+    "perDay": 82,
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 2,
+    "model": "Volkswagen Polo New",
+    "trim": "1.6 MPI MT Origin",
+    "class": "econom",
+    "price": 899900,
+    "perDay": 333,
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Лицензия такси за наш счёт",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 5,
+    "model": "Lada Granta Liftback",
+    "trim": "1.6 MT Classic",
+    "class": "econom",
+    "price": 205900,
+    "perDay": 76,
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 3,
+    "model": "Skoda Octavia Taxi",
+    "trim": "1.6 MPI AT Active",
+    "class": "comfort",
+    "price": 1289000,
+    "perDay": 477,
+    "image": "car-octavia-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "КАСКО в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 8,
+    "model": "Lada Granta Liftback",
+    "trim": "1.6 AT Luxe",
+    "class": "econom",
+    "price": 289900,
+    "perDay": 107,
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Лицензия такси за наш счёт",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 4,
+    "model": "Skoda Octavia New",
+    "trim": "1.4 TSI AT Ambition",
+    "class": "comfortPlus",
+    "price": 1690000,
+    "perDay": 626,
+    "image": "car-octavia-taxi-new.png",
+    "hue": 0,
+    "features": [
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "КАСКО в подарок",
+      "Первый взнос 0%"
+    ]
+  },
+  {
+    "id": 6,
+    "model": "Volkswagen Polo New",
+    "trim": "1.6 MPI AT Respect",
+    "class": "comfort",
+    "price": 1059900,
+    "perDay": 393,
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 11,
+    "model": "Lada Granta",
+    "trim": "1.6 MT Standard",
+    "class": "econom",
+    "price": 194500,
+    "perDay": 72,
+    "image": "car-lada-granta-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 7,
+    "model": "Skoda Octavia Taxi",
+    "trim": "1.8 TSI AT Style",
+    "class": "comfortPlus",
+    "price": 1459000,
+    "perDay": 540,
+    "image": "car-octavia-taxi.png",
+    "hue": 0,
+    "features": [
+      "Оклейка и брендирование такси",
+      "КАСКО в подарок",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 9,
+    "model": "Skoda Octavia New",
+    "trim": "1.6 MPI AT Active",
+    "class": "comfort",
+    "price": 1349000,
+    "perDay": 500,
+    "image": "car-octavia-taxi-new.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 10,
+    "model": "Volkswagen Polo New",
+    "trim": "1.4 TSI AMT Exclusive",
+    "class": "comfortPlus",
+    "price": 1249900,
+    "perDay": 463,
+    "image": "car-vw-polo-taxi.png",
+    "hue": 0,
+    "features": [
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "КАСКО в подарок",
+      "Рассрочка 0%"
+    ]
+  },
+  {
+    "id": 12,
+    "model": "Skoda Octavia Taxi",
+    "trim": "1.6 MPI MT Active",
+    "class": "comfort",
+    "price": 1199000,
+    "perDay": 444,
+    "image": "car-octavia-taxi.png",
+    "hue": 0,
+    "features": [
+      "Установка ГБО для экономии прибыли",
+      "Оклейка и брендирование такси",
+      "Комплект резины в подарок",
+      "Рассрочка 0%"
+    ]
+  }
+]
